@@ -1,0 +1,8 @@
+*/.*
+*/*
+
+!.gitignore
+!ar.tar.gz.bz2
+!mkar.sh
+!unar.sh
+
